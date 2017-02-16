@@ -1,0 +1,6 @@
+The first 40 covariates are about patient demographics, cytogenics, mutation status and the results of several standard blood tests.
+The rest attributes are proteomic measurements of 231 antibodies' responses.
+
+The gender and age and other basic information about the patient should be important.
+I think the blood tests results are important (ABS BLST; BM.BLAST; BM.MONOCYTES; BM.PROM; PB.BLAST; PB.MONO; PB.PROM).
+The 231 antibodies' responses can be largely constrained to maybe top 3-10 attributes.
